@@ -7,5 +7,5 @@ document.addEventListener("DOMContentLoaded", function() {
     setTimeout(function() {
         // Redirect to home.html after loading animation completes
         window.location.href = "home.html";
-    }, 7000); // 5-second delay
+    }, 5000); // 5-second delay
 });
